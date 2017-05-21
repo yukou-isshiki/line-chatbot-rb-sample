@@ -1,5 +1,6 @@
 require 'sinatra'
 require 'line/bot'
+require 'net/http'
 
 get '/' do
     # list users up and display
