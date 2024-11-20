@@ -2,5 +2,5 @@
 source "https://rubygems.org"
 
 ruby '2.4.0'
-gem 'sinatra'
+gem 'sinatra', '>= 4.1.0'
 gem 'line-bot-api'
